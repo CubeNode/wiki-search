@@ -84,3 +84,19 @@ a:hover {
 a {
   color: black;
 }
+
+#repo {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+#repo a {
+  color: #FFF;
+  font-size: 20px;
+}
+
+#repo .fab, #repo p {
+  color: #FFF;
+  margin: 5px;
+}
